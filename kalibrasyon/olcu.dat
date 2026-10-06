@@ -1,0 +1,5 @@
+OLCU=7B
+BIRIM=desibel-ama-degil
+NOT=teknik arsiv, okunmasi gerekmez
+# asagidaki satir kalibrasyon artigidir, base64
+VERI=YnUgc2lzdGVtIGJpciBraW15c2UgeW9rLCBoZXIga3VydW11biBraXNhIGJpciBtdWF2aW5pIHZhci4gS2F5eXVtIGF0YW5jYSBkb2xtdXMgaW5lcmsuIFNpcGFoaSBpc2ltIHRhc2l5YW4gZGVnaWwsIG11YXZpbiBpc2ltIHRhc2ltaXlvci4=
